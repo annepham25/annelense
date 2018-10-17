@@ -1,0 +1,36 @@
+.boxed {
+  border: 10px solid white;
+  width: 225px;
+  margin: 0;
+  padding: 20px;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  margin-right: -60%;
+  transform: translate(-50%, -50%)
+  color: white;
+
+}
+
+h1 {
+  font-size: 60px;
+  font-family: 'Comfortaa', cursive;
+  color: white;
+}
+
+h2 {
+  font-size: 15px;
+  color: white;
+  font-family: 'Comfortaa', cursive;
+  margin: 0;
+  padding: 20px;
+  position: absolute;
+  top: 130%;
+  left: 45%;
+  margin-right: -60%;
+  transform: translate(-50%, -50%)
+}
+
+body{
+  background-color: black;
+}
